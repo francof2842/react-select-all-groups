@@ -8,6 +8,7 @@ https://medium.com/@alex_escalante/react-select-alloptionoptions-with-a-single-c
 In order to work you must specify 
 
 allowSelectAll = true
+
 hasGroups = true (if you have groups in you select options)
 
 Also the format of your groups must be the following
